@@ -110,7 +110,7 @@ export const projects: Project[] = [
   {
     id: 'proj1',
     title: 'Chatt-App',
-    description: 'A task management web app that allows users to create, track, and organize tasks efficiently with an intuitive UI and real-time updates.',
+    description: 'Chatt-App is a real-time messaging web application designed for seamless communication with a clean and responsive UI. Built using React, Node.js, Express, and MongoDB, it leverages WebSockets (Socket.IO) to enable instant messaging between users. Key features include user authentication, one-on-one conversations, image sharing, and live updates, making it a robust and scalable solution for modern-day chat needs.',
     technologies: ['Web Sockets', 'React', 'Node.js', 'Express', 'MongoDB'],
     imageUrl: 'https://img.freepik.com/premium-psd/chat-app-landing-page-template_553413-701.jpg',
     link: 'https://chat-appy.vercel.app/',
