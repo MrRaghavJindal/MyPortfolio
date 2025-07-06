@@ -109,21 +109,21 @@ export const skills: Skill[] = [
 export const projects: Project[] = [
   {
     id: 'proj1',
-    title: 'E-commerce Platform',
-    description: 'A full-featured e-commerce solution with seamless payment integration, real-time inventory management, and an interactive analytics dashboard for business insights.',
-    technologies: ['React', 'Node.js', 'MongoDB', 'Stripe API'],
-    imageUrl: tradesphere,
-    link: 'https://trade-sphere.vercel.app/',
-    github:'https://github.com/MrRaghavJindal/TradeSphere'
+    title: 'Chatt-App',
+    description: 'A task management web app that allows users to create, track, and organize tasks efficiently with an intuitive UI and real-time updates.',
+    technologies: ['Web Sockets', 'React', 'Node.js', 'Express', 'MongoDB'],
+    imageUrl: 'https://img.freepik.com/premium-psd/chat-app-landing-page-template_553413-701.jpg',
+    link: 'https://chat-appy.vercel.app/',
+    github:'https://github.com/MrRaghavJindal/Chat-app'
   },
   {
     id: 'proj2',
-    title: 'News Web App',
-    description: 'A dynamic web application that aggregates news from various sources, categorizes them, and allows users to search and filter through trending topics in real-time.',
-    technologies: ['React', 'NewsAPI', 'Tailwind CSS', 'Vite'],
-    imageUrl: news,
-    link: 'https://newsdekhlo.netlify.app/',
-    github:'https://github.com/MrRaghavJindal/NEWS_APP'
+    title: 'Smart-Management-App',
+    description: 'A task management web app that allows users to create, track, and organize tasks efficiently with an intuitive UI and real-time updates.',
+    technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
+    imageUrl: 'https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    link: 'https://to-do-app-by-raghav.netlify.app/',
+    github:'https://github.com/MrRaghavJindal/React-JS-TO-DO-APP'
   },
   {
     id: 'proj3',
@@ -136,21 +136,21 @@ export const projects: Project[] = [
   },
   {
     id: 'proj4',
-    title: 'Smart-Management-App',
-    description: 'A task management web app that allows users to create, track, and organize tasks efficiently with an intuitive UI and real-time updates.',
-    technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
-    imageUrl: 'https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-    link: 'https://to-do-app-by-raghav.netlify.app/',
-    github:'https://github.com/MrRaghavJindal/React-JS-TO-DO-APP'
+    title: 'News Web App',
+    description: 'A dynamic web application that aggregates news from various sources, categorizes them, and allows users to search and filter through trending topics in real-time.',
+    technologies: ['React', 'NewsAPI', 'Tailwind CSS', 'Vite'],
+    imageUrl: news,
+    link: 'https://newsdekhlo.netlify.app/',
+    github:'https://github.com/MrRaghavJindal/NEWS_APP'
   },
   {
     id: 'proj5',
-    title: 'Chatt-App',
-    description: 'A task management web app that allows users to create, track, and organize tasks efficiently with an intuitive UI and real-time updates.',
-    technologies: ['Web Sockets', 'React', 'Node.js', 'Express', 'MongoDB'],
-    imageUrl: 'https://img.freepik.com/premium-psd/chat-app-landing-page-template_553413-701.jpg',
-    link: 'https://chat-appy.vercel.app/',
-    github:'https://github.com/MrRaghavJindal/Chat-app'
+    title: 'E-commerce Platform',
+    description: 'A full-featured e-commerce solution with seamless payment integration, real-time inventory management, and an interactive analytics dashboard for business insights.',
+    technologies: ['React', 'Node.js', 'MongoDB', 'Stripe API'],
+    imageUrl: tradesphere,
+    link: 'https://trade-sphere.vercel.app/',
+    github:'https://github.com/MrRaghavJindal/TradeSphere'
   },
 ];
 
