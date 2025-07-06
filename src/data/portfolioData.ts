@@ -136,12 +136,21 @@ export const projects: Project[] = [
   },
   {
     id: 'proj4',
-    title: 'To-Do-App',
+    title: 'Smart-Management-App',
     description: 'A task management web app that allows users to create, track, and organize tasks efficiently with an intuitive UI and real-time updates.',
     technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
     imageUrl: 'https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     link: 'https://to-do-app-by-raghav.netlify.app/',
     github:'https://github.com/MrRaghavJindal/React-JS-TO-DO-APP'
+  },
+  {
+    id: 'proj5',
+    title: 'Chatt-App',
+    description: 'A task management web app that allows users to create, track, and organize tasks efficiently with an intuitive UI and real-time updates.',
+    technologies: ['Web Sockets', 'React', 'Node.js', 'Express', 'MongoDB'],
+    imageUrl: 'https://img.freepik.com/premium-psd/chat-app-landing-page-template_553413-701.jpg',
+    link: 'https://chat-appy.vercel.app/',
+    github:'https://github.com/MrRaghavJindal/Chat-app'
   },
 ];
 
